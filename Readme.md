@@ -1,1 +1,1 @@
-# Sites made with just HTML5 and CSS3
+# Websites made with just HTML5 and CSS3
